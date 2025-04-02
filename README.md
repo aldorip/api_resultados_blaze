@@ -24,7 +24,7 @@ Com esses dados, é possível aplicar análises e desenvolver estratégias autom
 Se este projeto te ajudou, considere apoiar com uma doação via PIX:
 
 <p align="lefth">
-  <img src="https://raw.githubusercontent.com/aldorip/pybots/refs/heads/main/pix_qrcode.png" alt="QR Code PIX" width="220"/>
+  <img src="https://raw.githubusercontent.com/aldorip/api_resultados_blaze/refs/heads/main/pix_qrcode.png" alt="QR Code PIX" width="220"/>
 </p>
 
 > 📌 Chave PIX (aleatória):  
