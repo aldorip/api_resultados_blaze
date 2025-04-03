@@ -41,7 +41,7 @@ class ApiDouble:
             result = {
                 "items": [
                     {
-                        "color": "branco" if i["color"] == 0 else "vermelho" if i["color"] == 1 else "preto",
+                        "color": "B" if i["color"] == 0 else "V" if i["color"] == 1 else "P",
                         "value": i["roll"],
                         "created_date": datetime.strptime(i["created_at"], "%Y-%m-%dT%H:%M:%S.%fZ").strftime("%Y-%m-%d %H:%M:%S")
                     } for i in data
